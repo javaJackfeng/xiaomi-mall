@@ -1,0 +1,102 @@
+{
+	"name": "秒杀", 
+    "data":[
+		{
+			"name": "小米9 王源限量版 8GB+128GB 透明 128GB",
+			"introduce":"骁龙855，索尼4800万三摄",
+			"price":"2999元",
+			"delPrice":"3599元",
+			"imgSrc":"images2/seckill/seckill-1.jpg",
+			"url":"#"
+		},
+		{
+			"name": "米家充电台灯 白色",
+			"introduce":"三挡可调，40h长续航",
+			"price":"49.5元",
+			"delPrice":"99元",
+			"imgSrc":"images2/seckill/seckill-2.jpg",
+			"url":"#"
+		},
+		{
+			"name": "智睿LED灯泡 米家定制 12只装 白色",
+			"introduce":"点亮健康自然光",
+			"price":"49.5元",
+			"delPrice":"99元",
+			"imgSrc":"images2/seckill/seckill-3.jpg",
+			"url":"#"
+		},
+		{
+			"name": "小米9 全网通版 8GB+128GB 全息幻彩紫",
+			"introduce":"全曲面轻薄幻彩机身",
+			"price":"2799元",
+			"delPrice":"3299元",
+			"imgSrc":"images2/seckill/seckill-4.jpg",
+			"url":"#"
+		},
+		{
+			"name": "小米9 全网通版 8GB内存 全息幻彩紫 256GB",
+			"introduce":"全息幻彩机身，骁龙855",
+			"price":"2999元",
+			"delPrice":"3299元",
+			"imgSrc":"images2/seckill/seckill-5.jpg",
+			"url":"#"
+		},
+		{
+			"name": "小米9 SE 6GB+64GB 全息幻彩蓝",
+			"introduce":"4800万三摄/骁龙712处理器",
+			"price":"1599元",
+			"delPrice":"1999元",
+			"imgSrc":"images2/seckill/seckill-6.jpg",
+			"url":"#"
+		},
+		{
+			"name": "小米9 SE 6GB+128GB 全息幻彩蓝",
+			"introduce":"4800万三摄/骁龙712处理器",
+			"price":"1799元",
+			"delPrice":"2299元",
+			"imgSrc":"images2/seckill/seckill-7.jpg",
+			"url":"#"
+		},
+		{
+			"name": "小米MIX 2S 6GB+128GB 白色",
+			"introduce":"四曲面陶瓷机身，骁龙845",
+			"price":"1799元",
+			"delPrice":"2999元",
+			"imgSrc":"images2/seckill/seckill-8.jpg",
+			"url":"#"
+		},
+		{
+			"name": "小米MIX 3 全网通版 8GB+128GB 黑色",
+			"introduce":"DxO百分拍照手机",
+			"price":"2599元",
+			"delPrice":"3599元",
+			"imgSrc":"images2/seckill/seckill-9.jpg",
+			"url":"#"
+		},
+		{
+			"name": "Redmi 7 3GB+32GB 亮黑色",
+			"introduce":"4000mAh超长续航",
+			"price":"699元",
+			"delPrice":"799元",
+			"imgSrc":"images2/seckill/seckill-10.jpg",
+			"url":"#"
+		},
+		{
+			"name": "Redmi 7 4GB+64GB 亮黑色 ",
+			"introduce":"4000mAh超长续航",
+			"price":"899元",
+			"delPrice":"999元",
+			"imgSrc":"images2/seckill/seckill-11.jpg",
+			"url":"#"
+		},
+		{
+			"name": "Redmi 7A 全网通版 2GB+32GB 黑色",
+			"introduce":"骁龙8核处理器",
+			"price":"579元",
+			"delPrice":"599元",
+			"imgSrc":"images2/seckill/seckill-12.jpg",
+			"url":"#"
+		}
+	],
+    "error_code": 0
+}
